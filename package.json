@@ -1,0 +1,17 @@
+{
+  "name": "brcf-test",
+  "version": "1.0.0",
+  "description": "Blah Blab",
+  "main": "foo.js",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "coffeeify": "^2.0.1",
+    "source-map-support": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
