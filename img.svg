@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+  <text id="text" x="0" y="35" font-family="Verdana" font-size="35">
+    
+  </text>
+  <script>
+    <![CDATA[
+      window.onload=function () {
+        document.getElementById("text").innerHTML = window.location.href;
+        console.log(window.location.href);
+      }
+    ]]>
+  </script>
+<circle cx="250" cy="250" r="210" fill="#fff" stroke="#000" stroke-width="8"/>
+</svg>
