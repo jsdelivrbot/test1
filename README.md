@@ -1,4 +1,4 @@
 # test1
 fdsa
 
-![sample](https://raw.githubusercontent.com/bpmccurdy/test1/master/img.svg)
+![sample](https://rawgit.com/bpmccurdy/test1/master/img.svg)
