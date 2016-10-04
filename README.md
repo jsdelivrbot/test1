@@ -1,4 +1,4 @@
 # test1
 fdsa
 
-![sample](./img1.svg)
+![sample](./img.svg)
