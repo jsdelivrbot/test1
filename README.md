@@ -1,4 +1,4 @@
-<section align="center">
+
 
 # test1
 fdsa
@@ -6,8 +6,8 @@ fdsa
 # COMMIT 1
 
 # Commit 2
+<center>
 
-![sample](https://camo.githubusercontent.com/bpmccurdy/test1/master/img.svg)
+![sample](https://cdn.rawgit.com/bpmccurdy/test1/master/img.svg)
 
-
-</section>
+</center>
