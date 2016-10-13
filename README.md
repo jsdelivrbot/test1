@@ -5,4 +5,4 @@ fdsa
 
 # Commit 2
 
-![sample](https://raw.githubusercontent.com/bpmccurdy/test1/master/img.svg)
+![sample](https://camo.githubusercontent.com/bpmccurdy/test1/master/img.svg)
