@@ -8,7 +8,7 @@ fdsa
 # Commit 2
 
 
-<img src="https://cdn.rawgit.com/bpmccurdy/test1/master/img.svg" align="center">
+<p align="center"><img src="https://cdn.rawgit.com/bpmccurdy/test1/master/img.svg"></p>
 
 
 
