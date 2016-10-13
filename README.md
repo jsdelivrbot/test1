@@ -1,4 +1,4 @@
-<p align="center">
+<section align="center">
 
 # test1
 fdsa
@@ -10,4 +10,4 @@ fdsa
 ![sample](https://camo.githubusercontent.com/bpmccurdy/test1/master/img.svg)
 
 
-</p>
+</section>
