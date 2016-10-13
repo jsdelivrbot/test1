@@ -5,4 +5,4 @@ fdsa
 
 # Commit 2
 
-![sample](https://rawgit.com/bpmccurdy/test1/master/img.svg)
+![sample](./img.svg)
